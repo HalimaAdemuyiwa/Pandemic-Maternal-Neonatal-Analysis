@@ -1,4 +1,10 @@
 # Impact of pandemic lockdown on maternal and neonatal health outcomes in low-resource settings
+## Table of Contents
+* [Introduction](#introduction)
+* [Problem Statement](#problem-statement)
+* [Data Description](#data-description)
+* [Analysis & Visualization](#analysis-visualization)
+
 ## INTRODUCTION
 The covid-19 pandemic led to the implementation of lockdown measures to spread infection. These measures, however, disrupted access to essential healthcare services particularly maternal and neonatal care in low resources settings. Movement restrictions and strain on healthcare facilities limited access to antenatal care and skilled delivery services.
 This study assesses the impact of pandemic lockdown measures on maternal mortality, neonatal health outcomes and the role of telemedicine in improving health accessibility.
