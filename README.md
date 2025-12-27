@@ -1,7 +1,7 @@
 # Impact of pandemic lockdown on maternal and neonatal health outcomes in low-resource settings
 ## Table of Contents
 * [Introduction](#introduction)
-* [Problem Statement](#problem-statement)
+* [Probleme Statement](#problem-statement)
 * [Data Description](#data-description)
 * [Analysis & Visualization](#analysis-visualization)
 
